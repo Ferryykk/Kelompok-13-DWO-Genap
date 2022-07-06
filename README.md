@@ -14,5 +14,5 @@ Instruksi Cara Menginstall dan Menjalankan Aplikasi :
 4. Letakken seluruh file jsp maupun xml yang terletak pada folder "query mondrian" di folder C:\xampp\tomcat\webapps\mondrian\WEB-INF\queries
 5. Letakkan folder "Website Data Werehouse OLAP Kelompok 13" pada C:\xampp\htdocs
 5. Pada aplikasi XAMPP Control Panel, nyalakan(start) Apache, MySQL, dan Tomcat
-6. Lakukan import database aw_olap.sql melalui phpmyAdmin di localhostt
+6. Lakukan import database aw_olap.sql melalui phpmyAdmin di localhost
 7. Jalankan website di localhot/Website Data Werehouse OLAP Kelompok 13
