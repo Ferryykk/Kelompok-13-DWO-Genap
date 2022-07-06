@@ -8,8 +8,8 @@ Salma Nuraini       19082010075
 Achmad Robach A.    19082010122
 
 Instruksi Cara Menginstall dan Menjalankan Aplikasi :
-1. Download file repository Kelompok-13-Project DWO, maka akan terdownload dalam bentu file ZIP.
-2. Ekstrak file ZIP tersebut.
+1. Download file repository Kelompok-13-Project DWO, maka akan terdownload dalam bentu file ZIP
+2. Ekstrak file ZIP tersebut
 3. Letakken seluruh file jsp maupun html yang terletak pada folder "index mondrian" di folder C:\xampp\tomcat\webapps\mondrian
 4. Letakken seluruh file jsp maupun xml yang terletak pada folder "query mondrian" di folder C:\xampp\tomcat\webapps\mondrian\WEB-INF\queries
 5. Letakkan folder "Website Data Werehouse OLAP Kelompok 13" pada C:\xampp\htdocs
